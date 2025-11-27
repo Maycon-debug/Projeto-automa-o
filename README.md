@@ -85,10 +85,10 @@ projeto-cypress/
 
 ## 👥 Integrantes do Projeto
 
-- **Maycon Santos**
-- **Jonatan Batista**
-- **Victor Santos**
-- **Erivelton José**
+- **Maycon Santos: 01684679*
+- **Jonatan Batista 01700851*
+- **Victor Santos 01719259*
+- **Erivelton José 01682770*
 
 ## 📝 Licença
 
